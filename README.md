@@ -427,7 +427,7 @@ The primary objective is not simply to demonstrate SQL syntax, but to understand
 
 ---
 
-👤 Author
+## 👤 Author
 
 Shreshta Saha
 
